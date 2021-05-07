@@ -1,3 +1,9 @@
+# What is this app?
+In the https://github.com/pradip-interra/NodeJs we have added a sample REST API for Movie store. By default it runs on locahost:3000, APIs are like http://localhost:3000/api/movies.
+
+We are using React Js functional components to create a custom CRUD for this. It has a grid, modal based add, edit, delete .. all functionality.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# ScreenShot
+![image](https://user-images.githubusercontent.com/6500149/117439984-22716280-af51-11eb-8115-a494e92e042f.png)
+
+
